@@ -1,7 +1,9 @@
 # ===== Base image =====
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
-EXPOSE 8080    # غيرنا من 80 إلى 8080
+EXPOSE 80
+ENV ASPNETCORE_URLS=http://0.0.0.0:80
+# غيرنا من 80 إلى 8080
 
 # ===== Build image =====
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
