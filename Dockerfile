@@ -1,16 +1,14 @@
 # ===== Base image =====
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
-EXPOSE 80
+EXPOSE 8080    # غيرنا من 80 إلى 8080
 
 # ===== Build image =====
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# ننسخ كل ملفات السوليوشن بالكامل (DAL و Entities و Web API)
 COPY . .
 
-# نروح لمجلد المشروع الأساسي
 WORKDIR /src/Learnify
 RUN dotnet restore
 RUN dotnet publish -c Release -o /app/publish
@@ -20,3 +18,4 @@ FROM base AS final
 WORKDIR /app
 COPY --from=build /app/publish .
 ENTRYPOINT ["dotnet", "Learnify.dll"]
+ENV ASPNETCORE_URLS=http://0.0.0.0:8080

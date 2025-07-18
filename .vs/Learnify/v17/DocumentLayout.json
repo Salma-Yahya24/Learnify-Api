@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Courses\\Learnify\\Learnify\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|e:\\courses\\learnify\\learnify\\learnify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|solutionrelative:learnify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|e:\\courses\\learnify\\learnify\\learnify\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|solutionrelative:learnify\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Program.cs",
+              "RelativeDocumentMoniker": "Learnify\\Program.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Program.cs",
+              "RelativeToolTip": "Learnify\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:46:00.707Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Learnify\\Controllers\\AuthController.cs",
