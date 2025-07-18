@@ -1,0 +1,15 @@
+E:\Courses\Learnify\Learnify\Learnify.DAL\bin\Release\net8.0\Learnify.DAL.deps.json
+E:\Courses\Learnify\Learnify\Learnify.DAL\bin\Release\net8.0\Learnify.DAL.dll
+E:\Courses\Learnify\Learnify\Learnify.DAL\bin\Release\net8.0\Learnify.DAL.pdb
+E:\Courses\Learnify\Learnify\Learnify.DAL\bin\Release\net8.0\Learnify.Entities.dll
+E:\Courses\Learnify\Learnify\Learnify.DAL\bin\Release\net8.0\Learnify.Entities.pdb
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\Learnify.DAL.csproj.AssemblyReference.cache
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\Learnify.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\Learnify.DAL.AssemblyInfoInputs.cache
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\Learnify.DAL.AssemblyInfo.cs
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\Learnify.DAL.csproj.CoreCompileInputs.cache
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\Learnify.15C5484D.Up2Date
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\Learnify.DAL.dll
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\refint\Learnify.DAL.dll
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\Learnify.DAL.pdb
+E:\Courses\Learnify\Learnify\Learnify.DAL\obj\Release\net8.0\ref\Learnify.DAL.dll

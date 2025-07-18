@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\1d3b78bf-269a-4928-93a5-9ca4606f7188.jpg",
+      "PackagePath": "staticwebassets\\course-images\\1d3b78bf-269a-4928-93a5-9ca4606f7188.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\2cb20fdb-fc53-480d-8245-e1dd51d761b4.jpg",
+      "PackagePath": "staticwebassets\\course-images\\2cb20fdb-fc53-480d-8245-e1dd51d761b4.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\302e4ad3-673e-470b-a628-aa4a72cd8699.jpg",
+      "PackagePath": "staticwebassets\\course-images\\302e4ad3-673e-470b-a628-aa4a72cd8699.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\42500ee4-203a-4ad7-af27-09a529c92a03.jpg",
+      "PackagePath": "staticwebassets\\course-images\\42500ee4-203a-4ad7-af27-09a529c92a03.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\4cf6f3f5-b745-4824-83de-f9acd795e8d9.jpg",
+      "PackagePath": "staticwebassets\\course-images\\4cf6f3f5-b745-4824-83de-f9acd795e8d9.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\7b43ec20-e7c9-435c-9190-c2a4a443a5d1.jpg",
+      "PackagePath": "staticwebassets\\course-images\\7b43ec20-e7c9-435c-9190-c2a4a443a5d1.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\b2f7cad1-db9e-4cb4-a95c-60de5f17783d.jpg",
+      "PackagePath": "staticwebassets\\course-images\\b2f7cad1-db9e-4cb4-a95c-60de5f17783d.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\course-images\\portfolio-2.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\course-images\\portfolio-3.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\services.jpg",
+      "PackagePath": "staticwebassets\\course-images\\services.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\lesson-file\\2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.pdf",
+      "PackagePath": "staticwebassets\\lesson-file\\2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.pdf"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\lesson-file\\2_8f90c864-fff5-4424-8d75-e719a34ec928.pdf",
+      "PackagePath": "staticwebassets\\lesson-file\\2_8f90c864-fff5-4424-8d75-e719a34ec928.pdf"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\profile-images\\1a18aa70-2fd9-4eb0-be81-139c3ff60171.jpg",
+      "PackagePath": "staticwebassets\\profile-images\\1a18aa70-2fd9-4eb0-be81-139c3ff60171.jpg"
+    },
+    {
+      "Id": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\profile-images\\8c13fa10-47e3-4519-ad01-0e8e0f23f5be.jpg",
+      "PackagePath": "staticwebassets\\profile-images\\8c13fa10-47e3-4519-ad01-0e8e0f23f5be.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Learnify.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Learnify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Learnify.props",
+      "PackagePath": "build\\Learnify.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Learnify.props",
+      "PackagePath": "buildMultiTargeting\\Learnify.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Learnify.props",
+      "PackagePath": "buildTransitive\\Learnify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

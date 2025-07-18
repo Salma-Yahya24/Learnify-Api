@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<DocumentationFile>bin\Debug\net8.0\Learnify.xml</DocumentationFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="wwwroot\lesson-images\**" />
+	  <Content Remove="wwwroot\lesson-images\**" />
+	  <EmbeddedResource Remove="wwwroot\lesson-images\**" />
+	  <None Remove="wwwroot\lesson-images\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="jose-jwt" Version="5.1.1" />
+		<PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+		<PackageReference Include="Microsoft.AspNetCore.App" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.12" />
+		<PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.4" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.4" />
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="wwwroot\course-images\" />
+		<Folder Include="wwwroot\lesson-file\" />
+		<Folder Include="wwwroot\profile-images\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Learnify.DAL\Learnify.DAL.csproj" />
+	</ItemGroup>
+
+</Project>

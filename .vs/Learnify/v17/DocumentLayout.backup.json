@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\Learnify\\Learnify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|e:\\courses\\learnify\\learnify\\learnify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|solutionrelative:learnify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|e:\\courses\\learnify\\learnify\\learnify.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|solutionrelative:learnify.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|e:\\courses\\learnify\\learnify\\learnify\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|solutionrelative:learnify\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|e:\\courses\\learnify\\learnify\\learnify\\controllers\\progresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|solutionrelative:learnify\\controllers\\progresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|e:\\courses\\learnify\\learnify\\learnify\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|solutionrelative:learnify\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|e:\\courses\\learnify\\learnify\\learnify\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|solutionrelative:learnify\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|e:\\courses\\learnify\\learnify\\learnify\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|solutionrelative:learnify\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|e:\\courses\\learnify\\learnify\\learnify.entities\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|solutionrelative:learnify.entities\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|e:\\courses\\learnify\\learnify\\learnify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C592CBDF-A2D3-45A3-BE2D-4DDCC30947B0}|Learnify\\Learnify.csproj|solutionrelative:learnify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|e:\\courses\\learnify\\learnify\\learnify.dal\\repository\\progressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|solutionrelative:learnify.dal\\repository\\progressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|e:\\courses\\learnify\\learnify\\learnify.dal\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|solutionrelative:learnify.dal\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|e:\\courses\\learnify\\learnify\\learnify.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|solutionrelative:learnify.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|e:\\courses\\learnify\\learnify\\learnify.dal\\repository\\lessoncompletionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|solutionrelative:learnify.dal\\repository\\lessoncompletionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|e:\\courses\\learnify\\learnify\\learnify.entities\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|solutionrelative:learnify.entities\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|e:\\courses\\learnify\\learnify\\learnify.entities\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|solutionrelative:learnify.entities\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|e:\\courses\\learnify\\learnify\\learnify.entities\\interfaces\\ilessoncompletionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|solutionrelative:learnify.entities\\interfaces\\ilessoncompletionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|e:\\courses\\learnify\\learnify\\learnify.entities\\models\\lessoncompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|solutionrelative:learnify.entities\\models\\lessoncompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|e:\\courses\\learnify\\learnify\\learnify.entities\\interfaces\\iprogressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C92E50C-F842-4517-B064-D837F31D4C2B}|Learnify.Entities\\Learnify.Entities.csproj|solutionrelative:learnify.entities\\interfaces\\iprogressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|e:\\courses\\learnify\\learnify\\learnify.dal\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|solutionrelative:learnify.dal\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|e:\\courses\\learnify\\learnify\\learnify.dal\\migrations\\20250517150108_addlessoncompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A8EAC-4E1C-4F1A-B273-7337E10CABAF}|Learnify.DAL\\Learnify.DAL.csproj|solutionrelative:learnify.dal\\migrations\\20250517150108_addlessoncompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Learnify\\Controllers\\CourseController.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Learnify\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:35:25.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify\\appsettings.json",
+              "RelativeDocumentMoniker": "Learnify\\appsettings.json",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify\\appsettings.json",
+              "RelativeToolTip": "Learnify\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T17:58:51.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProgressRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\ProgressRepository.cs",
+              "RelativeDocumentMoniker": "Learnify.DAL\\Repository\\ProgressRepository.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\ProgressRepository.cs",
+              "RelativeToolTip": "Learnify.DAL\\Repository\\ProgressRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:45:57.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgressController.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\ProgressController.cs",
+              "RelativeDocumentMoniker": "Learnify\\Controllers\\ProgressController.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\ProgressController.cs",
+              "RelativeToolTip": "Learnify\\Controllers\\ProgressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:43:46.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Learnify\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Learnify\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:15:24.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Learnify.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Learnify.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:59:16.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "Learnify\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "Learnify\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:34:59.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitofWork.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\UnitofWork.cs",
+              "RelativeDocumentMoniker": "Learnify.DAL\\Repository\\UnitofWork.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\UnitofWork.cs",
+              "RelativeToolTip": "Learnify.DAL\\Repository\\UnitofWork.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:08:48.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "Learnify\\Controllers\\LessonController.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "Learnify\\Controllers\\LessonController.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAiwJgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:24:09.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Program.cs",
+              "RelativeDocumentMoniker": "Learnify\\Program.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify\\Program.cs",
+              "RelativeToolTip": "Learnify\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:22:33.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\DTOs\\Register.cs",
+              "RelativeDocumentMoniker": "Learnify.Entities\\DTOs\\Register.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\DTOs\\Register.cs",
+              "RelativeToolTip": "Learnify.Entities\\DTOs\\Register.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:32:25.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Learnify.DAL\\Repository\\Repository.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\Repository.cs",
+              "RelativeToolTip": "Learnify.DAL\\Repository\\Repository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:11:23.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LessonCompletionRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\LessonCompletionRepository.cs",
+              "RelativeDocumentMoniker": "Learnify.DAL\\Repository\\LessonCompletionRepository.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\LessonCompletionRepository.cs",
+              "RelativeToolTip": "Learnify.DAL\\Repository\\LessonCompletionRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:07:31.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Learnify.Entities\\Interfaces\\IRepository.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Learnify.Entities\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:10:23.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitofWork.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Interfaces\\IUnitofWork.cs",
+              "RelativeDocumentMoniker": "Learnify.Entities\\Interfaces\\IUnitofWork.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Interfaces\\IUnitofWork.cs",
+              "RelativeToolTip": "Learnify.Entities\\Interfaces\\IUnitofWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:08:17.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILessonCompletionRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Interfaces\\ILessonCompletionRepository.cs",
+              "RelativeDocumentMoniker": "Learnify.Entities\\Interfaces\\ILessonCompletionRepository.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Interfaces\\ILessonCompletionRepository.cs",
+              "RelativeToolTip": "Learnify.Entities\\Interfaces\\ILessonCompletionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:06:55.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LessonCompletion.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Models\\LessonCompletion.cs",
+              "RelativeDocumentMoniker": "Learnify.Entities\\Models\\LessonCompletion.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Models\\LessonCompletion.cs",
+              "RelativeToolTip": "Learnify.Entities\\Models\\LessonCompletion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:58:50.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProgressRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Interfaces\\IProgressRepository.cs",
+              "RelativeDocumentMoniker": "Learnify.Entities\\Interfaces\\IProgressRepository.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.Entities\\Interfaces\\IProgressRepository.cs",
+              "RelativeToolTip": "Learnify.Entities\\Interfaces\\IProgressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:45:10.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Learnify.DAL\\Repository\\CourseRepository.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "Learnify.DAL\\Repository\\CourseRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:01:50.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250517150108_AddLessonCompletion.cs",
+              "DocumentMoniker": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Migrations\\20250517150108_AddLessonCompletion.cs",
+              "RelativeDocumentMoniker": "Learnify.DAL\\Migrations\\20250517150108_AddLessonCompletion.cs",
+              "ToolTip": "E:\\Courses\\Learnify\\Learnify\\Learnify.DAL\\Migrations\\20250517150108_AddLessonCompletion.cs",
+              "RelativeToolTip": "Learnify.DAL\\Migrations\\20250517150108_AddLessonCompletion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:01:08.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

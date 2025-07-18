@@ -1,0 +1,28 @@
+# Folders to ignore
+bin/
+obj/
+.vs/
+node_modules/
+
+# User files
+*.user
+*.suo
+
+# Logs, build outputs, etc
+*.log
+*.zip
+*.tmp
+
+# Git & config stuff
+.git
+.gitignore
+*.md
+.env
+Dockerfile.*
+docker-compose.*
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

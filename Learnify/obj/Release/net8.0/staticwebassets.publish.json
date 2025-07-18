@@ -1,0 +1,1464 @@
+{
+  "Version": 1,
+  "Hash": "1mdtcSpGUOleV3E87fRxPd3JSuAYIimjoUrD3ZZD5XE=",
+  "Source": "Learnify",
+  "BasePath": "_content/Learnify",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Learnify\\wwwroot",
+      "Source": "Learnify",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\1d3b78bf-269a-4928-93a5-9ca4606f7188.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/1d3b78bf-269a-4928-93a5-9ca4606f7188#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pa6f2q018f",
+      "Integrity": "ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\1d3b78bf-269a-4928-93a5-9ca4606f7188.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\2cb20fdb-fc53-480d-8245-e1dd51d761b4.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/2cb20fdb-fc53-480d-8245-e1dd51d761b4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xtqzvyitqh",
+      "Integrity": "a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\2cb20fdb-fc53-480d-8245-e1dd51d761b4.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\302e4ad3-673e-470b-a628-aa4a72cd8699.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/302e4ad3-673e-470b-a628-aa4a72cd8699#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pa6f2q018f",
+      "Integrity": "ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\302e4ad3-673e-470b-a628-aa4a72cd8699.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\42500ee4-203a-4ad7-af27-09a529c92a03.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/42500ee4-203a-4ad7-af27-09a529c92a03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xtqzvyitqh",
+      "Integrity": "a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\42500ee4-203a-4ad7-af27-09a529c92a03.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\4cf6f3f5-b745-4824-83de-f9acd795e8d9.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/4cf6f3f5-b745-4824-83de-f9acd795e8d9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pa6f2q018f",
+      "Integrity": "ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\4cf6f3f5-b745-4824-83de-f9acd795e8d9.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\7b43ec20-e7c9-435c-9190-c2a4a443a5d1.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/7b43ec20-e7c9-435c-9190-c2a4a443a5d1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xtqzvyitqh",
+      "Integrity": "a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\7b43ec20-e7c9-435c-9190-c2a4a443a5d1.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\b2f7cad1-db9e-4cb4-a95c-60de5f17783d.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/b2f7cad1-db9e-4cb4-a95c-60de5f17783d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pa6f2q018f",
+      "Integrity": "ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\b2f7cad1-db9e-4cb4-a95c-60de5f17783d.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\portfolio-2.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/portfolio-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jxqkefb37n",
+      "Integrity": "qWAXFfVK5We6yzkFZo1EoQSegm+MiiEo8K6VcSJScXs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\portfolio-2.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\portfolio-3.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/portfolio-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xtqzvyitqh",
+      "Integrity": "a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\portfolio-3.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\services.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "course-images/services#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a7wi44pfpu",
+      "Integrity": "htc9VXwq2yBqMYZuNBxckE0lyjXM8v406i0QCn4Xn/w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\course-images\\services.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\lesson-file\\2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.pdf",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "lesson-file/2_1d34ee9c-cf25-4f03-8322-e3cd1761400e#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2alos4392e",
+      "Integrity": "RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lesson-file\\2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.pdf"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\lesson-file\\2_8f90c864-fff5-4424-8d75-e719a34ec928.pdf",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "lesson-file/2_8f90c864-fff5-4424-8d75-e719a34ec928#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2alos4392e",
+      "Integrity": "RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lesson-file\\2_8f90c864-fff5-4424-8d75-e719a34ec928.pdf"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\profile-images\\1a18aa70-2fd9-4eb0-be81-139c3ff60171.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "profile-images/1a18aa70-2fd9-4eb0-be81-139c3ff60171#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qy0fmzzxl1",
+      "Integrity": "omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-images\\1a18aa70-2fd9-4eb0-be81-139c3ff60171.jpg"
+    },
+    {
+      "Identity": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\profile-images\\8c13fa10-47e3-4519-ad01-0e8e0f23f5be.jpg",
+      "SourceId": "Learnify",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\",
+      "BasePath": "_content/Learnify",
+      "RelativePath": "profile-images/8c13fa10-47e3-4519-ad01-0e8e0f23f5be#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qy0fmzzxl1",
+      "Integrity": "omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-images\\8c13fa10-47e3-4519-ad01-0e8e0f23f5be.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "course-images/1d3b78bf-269a-4928-93a5-9ca4606f7188.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\1d3b78bf-269a-4928-93a5-9ca4606f7188.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 16:25:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/1d3b78bf-269a-4928-93a5-9ca4606f7188.pa6f2q018f.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\1d3b78bf-269a-4928-93a5-9ca4606f7188.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 16:25:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pa6f2q018f"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/1d3b78bf-269a-4928-93a5-9ca4606f7188.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/2cb20fdb-fc53-480d-8245-e1dd51d761b4.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\2cb20fdb-fc53-480d-8245-e1dd51d761b4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 06:00:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/2cb20fdb-fc53-480d-8245-e1dd51d761b4.xtqzvyitqh.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\2cb20fdb-fc53-480d-8245-e1dd51d761b4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 06:00:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtqzvyitqh"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/2cb20fdb-fc53-480d-8245-e1dd51d761b4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/302e4ad3-673e-470b-a628-aa4a72cd8699.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\302e4ad3-673e-470b-a628-aa4a72cd8699.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 17:13:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/302e4ad3-673e-470b-a628-aa4a72cd8699.pa6f2q018f.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\302e4ad3-673e-470b-a628-aa4a72cd8699.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 17:13:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pa6f2q018f"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/302e4ad3-673e-470b-a628-aa4a72cd8699.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/42500ee4-203a-4ad7-af27-09a529c92a03.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\42500ee4-203a-4ad7-af27-09a529c92a03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 07:29:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/42500ee4-203a-4ad7-af27-09a529c92a03.xtqzvyitqh.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\42500ee4-203a-4ad7-af27-09a529c92a03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 07:29:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtqzvyitqh"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/42500ee4-203a-4ad7-af27-09a529c92a03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/4cf6f3f5-b745-4824-83de-f9acd795e8d9.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\4cf6f3f5-b745-4824-83de-f9acd795e8d9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 16:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/4cf6f3f5-b745-4824-83de-f9acd795e8d9.pa6f2q018f.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\4cf6f3f5-b745-4824-83de-f9acd795e8d9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 16:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pa6f2q018f"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/4cf6f3f5-b745-4824-83de-f9acd795e8d9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/7b43ec20-e7c9-435c-9190-c2a4a443a5d1.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\7b43ec20-e7c9-435c-9190-c2a4a443a5d1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 07:49:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/7b43ec20-e7c9-435c-9190-c2a4a443a5d1.xtqzvyitqh.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\7b43ec20-e7c9-435c-9190-c2a4a443a5d1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 07:49:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtqzvyitqh"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/7b43ec20-e7c9-435c-9190-c2a4a443a5d1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/b2f7cad1-db9e-4cb4-a95c-60de5f17783d.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\b2f7cad1-db9e-4cb4-a95c-60de5f17783d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 16:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/b2f7cad1-db9e-4cb4-a95c-60de5f17783d.pa6f2q018f.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\b2f7cad1-db9e-4cb4-a95c-60de5f17783d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 16:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pa6f2q018f"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/b2f7cad1-db9e-4cb4-a95c-60de5f17783d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofckuTKhJQJDdenXbWzRE+DzPfBNqAHxJtneWPP2IMk="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/portfolio-2.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\portfolio-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qWAXFfVK5We6yzkFZo1EoQSegm+MiiEo8K6VcSJScXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 20:06:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qWAXFfVK5We6yzkFZo1EoQSegm+MiiEo8K6VcSJScXs="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/portfolio-2.jxqkefb37n.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\portfolio-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qWAXFfVK5We6yzkFZo1EoQSegm+MiiEo8K6VcSJScXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 20:06:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxqkefb37n"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/portfolio-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qWAXFfVK5We6yzkFZo1EoQSegm+MiiEo8K6VcSJScXs="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/portfolio-3.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\portfolio-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/portfolio-3.xtqzvyitqh.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\portfolio-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtqzvyitqh"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/portfolio-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+Z3uZ3gacye3EAeOMA1eHfhML7TlmM3FzH+aTGlE9Q="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/services.a7wi44pfpu.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\services.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"htc9VXwq2yBqMYZuNBxckE0lyjXM8v406i0QCn4Xn/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 20:08:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a7wi44pfpu"
+        },
+        {
+          "Name": "label",
+          "Value": "course-images/services.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-htc9VXwq2yBqMYZuNBxckE0lyjXM8v406i0QCn4Xn/w="
+        }
+      ]
+    },
+    {
+      "Route": "course-images/services.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\course-images\\services.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"htc9VXwq2yBqMYZuNBxckE0lyjXM8v406i0QCn4Xn/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 20:08:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-htc9VXwq2yBqMYZuNBxckE0lyjXM8v406i0QCn4Xn/w="
+        }
+      ]
+    },
+    {
+      "Route": "lesson-file/2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.2alos4392e.pdf",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\lesson-file\\2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:23:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2alos4392e"
+        },
+        {
+          "Name": "label",
+          "Value": "lesson-file/2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q="
+        }
+      ]
+    },
+    {
+      "Route": "lesson-file/2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.pdf",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\lesson-file\\2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:23:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q="
+        }
+      ]
+    },
+    {
+      "Route": "lesson-file/2_8f90c864-fff5-4424-8d75-e719a34ec928.2alos4392e.pdf",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\lesson-file\\2_8f90c864-fff5-4424-8d75-e719a34ec928.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:48:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2alos4392e"
+        },
+        {
+          "Name": "label",
+          "Value": "lesson-file/2_8f90c864-fff5-4424-8d75-e719a34ec928.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q="
+        }
+      ]
+    },
+    {
+      "Route": "lesson-file/2_8f90c864-fff5-4424-8d75-e719a34ec928.pdf",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\lesson-file\\2_8f90c864-fff5-4424-8d75-e719a34ec928.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:48:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RuK+obEnGYjibouFIJ8dTWZGsEFXMpgHsJpNlyEr59Q="
+        }
+      ]
+    },
+    {
+      "Route": "profile-images/1a18aa70-2fd9-4eb0-be81-139c3ff60171.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\profile-images\\1a18aa70-2fd9-4eb0-be81-139c3ff60171.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "812072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 10:10:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o="
+        }
+      ]
+    },
+    {
+      "Route": "profile-images/1a18aa70-2fd9-4eb0-be81-139c3ff60171.qy0fmzzxl1.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\profile-images\\1a18aa70-2fd9-4eb0-be81-139c3ff60171.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "812072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 10:10:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qy0fmzzxl1"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-images/1a18aa70-2fd9-4eb0-be81-139c3ff60171.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o="
+        }
+      ]
+    },
+    {
+      "Route": "profile-images/8c13fa10-47e3-4519-ad01-0e8e0f23f5be.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\profile-images\\8c13fa10-47e3-4519-ad01-0e8e0f23f5be.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "812072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 18:20:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o="
+        }
+      ]
+    },
+    {
+      "Route": "profile-images/8c13fa10-47e3-4519-ad01-0e8e0f23f5be.qy0fmzzxl1.jpg",
+      "AssetFile": "E:\\Courses\\Learnify\\Learnify\\Learnify\\wwwroot\\profile-images\\8c13fa10-47e3-4519-ad01-0e8e0f23f5be.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "812072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 18:20:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qy0fmzzxl1"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-images/8c13fa10-47e3-4519-ad01-0e8e0f23f5be.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omQhwQ0meL9bCfTa6QtN+dRYtyOKsTBk1b4X1sw3R5o="
+        }
+      ]
+    }
+  ]
+}

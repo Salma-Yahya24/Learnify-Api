@@ -1,0 +1,12 @@
+E:\Courses\Learnify\Learnify\Learnify.Entities\bin\Debug\net8.0\Learnify.Entities.deps.json
+E:\Courses\Learnify\Learnify\Learnify.Entities\bin\Debug\net8.0\Learnify.Entities.dll
+E:\Courses\Learnify\Learnify\Learnify.Entities\bin\Debug\net8.0\Learnify.Entities.pdb
+E:\Courses\Learnify\Learnify\Learnify.Entities\obj\Debug\net8.0\Learnify.Entities.csproj.AssemblyReference.cache
+E:\Courses\Learnify\Learnify\Learnify.Entities\obj\Debug\net8.0\Learnify.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Learnify\Learnify\Learnify.Entities\obj\Debug\net8.0\Learnify.Entities.AssemblyInfoInputs.cache
+E:\Courses\Learnify\Learnify\Learnify.Entities\obj\Debug\net8.0\Learnify.Entities.AssemblyInfo.cs
+E:\Courses\Learnify\Learnify\Learnify.Entities\obj\Debug\net8.0\Learnify.Entities.csproj.CoreCompileInputs.cache
+E:\Courses\Learnify\Learnify\Learnify.Entities\obj\Debug\net8.0\Learnify.Entities.dll
+E:\Courses\Learnify\Learnify\Learnify.Entities\obj\Debug\net8.0\refint\Learnify.Entities.dll
+E:\Courses\Learnify\Learnify\Learnify.Entities\obj\Debug\net8.0\Learnify.Entities.pdb
+E:\Courses\Learnify\Learnify\Learnify.Entities\obj\Debug\net8.0\ref\Learnify.Entities.dll

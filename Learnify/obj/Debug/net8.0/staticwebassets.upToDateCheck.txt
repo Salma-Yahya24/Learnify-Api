@@ -1,0 +1,14 @@
+wwwroot\course-images\1d3b78bf-269a-4928-93a5-9ca4606f7188.jpg
+wwwroot\course-images\2cb20fdb-fc53-480d-8245-e1dd51d761b4.jpg
+wwwroot\course-images\302e4ad3-673e-470b-a628-aa4a72cd8699.jpg
+wwwroot\course-images\42500ee4-203a-4ad7-af27-09a529c92a03.jpg
+wwwroot\course-images\4cf6f3f5-b745-4824-83de-f9acd795e8d9.jpg
+wwwroot\course-images\7b43ec20-e7c9-435c-9190-c2a4a443a5d1.jpg
+wwwroot\course-images\b2f7cad1-db9e-4cb4-a95c-60de5f17783d.jpg
+wwwroot\course-images\portfolio-2.jpg
+wwwroot\course-images\portfolio-3.jpg
+wwwroot\course-images\services.jpg
+wwwroot\lesson-file\2_1d34ee9c-cf25-4f03-8322-e3cd1761400e.pdf
+wwwroot\lesson-file\2_8f90c864-fff5-4424-8d75-e719a34ec928.pdf
+wwwroot\profile-images\1a18aa70-2fd9-4eb0-be81-139c3ff60171.jpg
+wwwroot\profile-images\8c13fa10-47e3-4519-ad01-0e8e0f23f5be.jpg
