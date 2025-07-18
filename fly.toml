@@ -1,10 +1,15 @@
-app = 'learnify-autumn-field-7370'
-primary_region = 'fra'
+# fly.toml app configuration file generated for learnify-api on 2025-07-18T12:32:03Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'learnify-api'
+primary_region = 'cdg'
 
 [build]
 
 [http_service]
-  internal_port = 80  # غيرنا من 80 إلى 8080
+  internal_port = 80
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true
