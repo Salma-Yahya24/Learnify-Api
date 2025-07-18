@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for learnify-autumn-field-7370 on 2025-07-18T13:57:56+03:00
+# fly.toml app configuration file generated for learnify-api on 2025-07-18T11:38:11Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'learnify-autumn-field-7370'
+app = 'learnify-api'
 primary_region = 'fra'
 
 [build]
@@ -20,3 +20,4 @@ primary_region = 'fra'
   memory = '1gb'
   cpu_kind = 'shared'
   cpus = 1
+  memory_mb = 1024
