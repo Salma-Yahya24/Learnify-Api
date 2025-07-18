@@ -20,15 +20,18 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
-        // إضافة خدمات CORS
+        // ✅ تحديث CORS للسماح لـ Vercel frontend
         builder.Services.AddCors(options =>
         {
-            options.AddPolicy("AllowAngularApp", policy =>
+            options.AddPolicy("AllowFrontend", policy =>
             {
-                policy.WithOrigins("http://localhost:4200")  // رابط Angular frontend
-                      .AllowAnyHeader()
-                      .AllowAnyMethod()
-                      .AllowCredentials();
+                policy.WithOrigins(
+                        "http://localhost:4200", // لو بتجربي محلي
+                        "https://learnify-sigma-tawny.vercel.app" // رابط Vercel
+                    )
+                    .AllowAnyHeader()
+                    .AllowAnyMethod()
+                    .AllowCredentials();
             });
         });
 
@@ -83,8 +86,8 @@ public class Program
 
         var app = builder.Build();
 
-        // تفعيل CORS قبل الميدلويرز الأخرى
-        app.UseCors("AllowAngularApp");
+        // ✅ تفعيل سياسة CORS الجديدة
+        app.UseCors("AllowFrontend");
 
         app.UseStaticFiles();
         app.UseStaticFiles(new StaticFileOptions
@@ -108,6 +111,8 @@ public class Program
         app.UseAuthorization();
 
         app.MapControllers();
+
+        // تشغيل على البورت 80 داخل السيرفر
         app.Urls.Add("http://0.0.0.0:80");
         app.Run();
     }
